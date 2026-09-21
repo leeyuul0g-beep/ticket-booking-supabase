@@ -233,13 +233,20 @@ http://퍼블릭IP:3001/performances
 
 ---
 
-## 5. 제출 체크리스트
+## 5. 제출 정보 / 체크리스트
+
+| 항목 | 값 |
+|------|-----|
+| GitHub 레포 URL | <https://github.com/leeyuul0g-beep/ticket-booking-supabase> |
+| Supabase 프로젝트 URL | `https://tickesgvrclqjxwyembo.supabase.co` |
+| EC2 퍼블릭 IP | (2부에서 기입) |
+| API 접속 URL | `http://EC2_IP:3001/performances` |
 
 - [ ] 성명
-- [ ] GitHub 레포 URL (`.env` 미포함 / `.env.example` 만 포함)
-- [ ] Supabase 프로젝트 URL `https://프로젝트ID.supabase.co`
+- [x] GitHub 레포 URL (`.env` 미포함 / `.env.example` 만 포함)
+- [x] Supabase 프로젝트 URL
 - [ ] EC2 퍼블릭 IP
-- [ ] API 접속 URL `http://EC2_IP:3001/performances`
+- [ ] API 접속 URL
 - [ ] 캡처 1 — Supabase Table Editor (테이블 3개)
 - [ ] 캡처 2 — Supabase ERD
 - [ ] 캡처 3 — `http://localhost:3001/performances`
